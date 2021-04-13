@@ -1,0 +1,12 @@
+* {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.hello {
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    color: red;
+}
